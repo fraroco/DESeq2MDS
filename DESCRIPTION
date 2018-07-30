@@ -1,0 +1,12 @@
+Package: DEseq2MDS
+Type: Package
+Title: Automatic MDS for DESeq2 output
+Version: 0.1.0
+Author: Francisco Romero
+Maintainer: Francisco Romero <fraroco@gmail.com>
+Description: This packages inputs a DESeq object and 
+    outputs a plot with an MDS analysis
+License: CC-BY
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
